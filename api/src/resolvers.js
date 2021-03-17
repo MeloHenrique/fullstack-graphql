@@ -5,9 +5,9 @@
 
 module.exports = {
   Query: {
+      
     pets(_, __, {models}) {
-        
-        return models.Pet.findMany({});
+        return models.Pet.findMany({})
     }
   },
   /*Mutation: {

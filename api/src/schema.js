@@ -12,7 +12,7 @@ const typeDefs = gql`
 
     type Pet {
         id: ID!
-        createdAt: Int!
+        createdAt: String!
         name: String!
         type: String!
     }
