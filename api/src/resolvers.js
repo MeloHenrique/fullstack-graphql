@@ -15,9 +15,15 @@ module.exports = {
     }
 
   },
-  /*Mutation: {
-    
+  Mutation: {
+    new_pet(_, {input}, {models}) {
+        
+        models.Pet.create(input)
+        return input
+    }
   },
+
+  /*
   Pet: {
     img(pet) {
       return pet.type === 'DOG'
