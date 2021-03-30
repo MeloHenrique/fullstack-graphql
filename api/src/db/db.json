@@ -8,19 +8,22 @@
       "id": "1",
       "createdAt": "465465486532",
       "name": "Moose",
-      "type": "DOG"
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
     },
     {
       "id": "2",
       "createdAt": "465465489878",
       "name": "Miau",
-      "type": "CATS"
+      "type": "CATS",
+      "user": "jBWMVGjm50l6LGwepDoty"
     },
     {
       "id": "5I6yHRrSJoc3qWvqx7d8i",
       "createdAt": 1616972940263,
       "name": "Boby",
-      "type": "DOG"
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
     }
   ]
 }
